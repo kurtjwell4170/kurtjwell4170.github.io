@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Jekyll Serif Theme
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+title: Unified Federal Technologies
+description: Unified Federal is an economically disadvantaged women-owned small business (WSOB) in the software consulting and information technology space based in the Detroit, MI area.
 intro_image: "images/pixeltrue-plan-1.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Custom Software Development. Delivered.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Unified Federal is an economically disadvantaged women-owned small business (EDWSOB) in the software consulting and information technology space. We're based in the Detroit, MI area.

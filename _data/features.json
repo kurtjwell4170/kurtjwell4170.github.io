@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Agile Experts",
+    "description": "Build world-class software.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Technical Insights",
+    "description": "Get the most out of your IT systems.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Data, Visualized",
+    "description": "See your data in a whole new way.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

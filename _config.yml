@@ -1,35 +1,32 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Unified Federal Technologies'
 
 google_analytics_id: null
 homepage:
   show_call_box: true
 logo:
   mobile: "images/logo-mobile.svg"
-  desktop: "images/logo.svg"
-  desktop_height: "36px"
+  desktop: "images/logo.png"
+  desktop_height: "30px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'Copyright 2020 Unified Federal Technologies LLC'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "Unified Federal Technologies"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif-theme.netlify.app"
+  meta_og_url: "http://unifiedfederal.com"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description: "Unified Federal is an economically disadvantaged women-owned small business (WSOB) in the software consulting and information technology space based in the Detroit, MI area."
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@unifiedfederal"
+  meta_twitter_creator: "@unifiedfederal"
 
 collections:
   services:
     output: true
     permalink: /services/:path/
-  team:
-    output: true
-    permalink: /team/:path/
 
 defaults:
   - scope:
